@@ -1,0 +1,34 @@
+.titulo{
+    text-align: center;
+    color: rgb(255, 99, 99);
+}
+
+fieldset
+{ 
+border: 1px solid rgb(0, 0, 0);
+
+}
+
+.botao 
+{
+    text-align: right;
+    background-color: rgb(247, 171, 158);
+}
+form{
+    background-color:  rgb(241, 241, 241);
+}
+
+footer {
+    display: flex;
+    width: 100%;
+    background-color: #f8f8f8;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid #e7e7e7;
+  }
+  label{
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  
